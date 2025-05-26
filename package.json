@@ -1,0 +1,16 @@
+{
+  "name": "diashow_generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "A simple image slideshow generator using Express and EJS",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "google-image-sr": "^1.0.0"
+  }
+}
